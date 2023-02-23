@@ -68,4 +68,5 @@ void escribir_en_fichero(clientes *ptr, int cantidad_clientes){
       fichero_escritura << "\n";
       }
     }
+	fichero_escritura.close();
 }
