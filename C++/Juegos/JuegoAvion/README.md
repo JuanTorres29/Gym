@@ -1,4 +1,4 @@
-Juego de Naves y Asteroides
+#Juego de Naves y Asteroides
 Este es un sencillo juego de consola hecho en C++ donde el jugador controla una nave espacial que tiene que esquivar los asteroides que caen y dispararles para obtener puntos.
 
 Requisitos
