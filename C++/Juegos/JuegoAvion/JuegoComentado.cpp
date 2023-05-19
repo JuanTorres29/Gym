@@ -1,3 +1,6 @@
+//Autor original: Ricardo Carrasco - https://gist.github.com/RicardoACS/274c0e1e2d4785a76ef7
+//Comentado por: Juan Andres Torres
+
 // Incluir las librerías necesarias
 #include <stdio.h>
 #include <Windows.h>
